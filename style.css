@@ -1,0 +1,47 @@
+.hyper1{
+    font-size: small;
+    color: aliceblue;
+    margin-top: 100%;
+}
+
+.hyper2{
+    margin-top: 0%;
+    border-bottom-left-radius:25px;
+    border-bottom-right-radius:25px;
+    height:50px;
+}
+
+body{
+    background-size: cover;
+}
+
+.div-volume2{
+    float: left;
+    width: 200px;
+    margin-bottom: 0%;
+}
+
+.div-speed2{
+    float: right;
+    width: 200px;
+    margin-bottom: 0%;
+}
+
+.div-volume{
+    float: left;
+}
+
+.div-speed{
+    float: right;
+}
+
+button{
+    width: 100px;
+    height: 50px;
+    font-size: 30px;
+    border-radius: 25px;
+}
+
+canvas{
+    border: 5px ridge grey;
+}
